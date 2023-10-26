@@ -27,21 +27,21 @@ Make the model deployment-ready by giving User-Input provision
 
 This datset contains data for the weekly sales prediction for one of the leading retail store, Walmart. There are sales data available for 45 stores of Walmart.
 
-Store - the store number
+**Store** - the store number
 
-*Date *- the week of sales
+**Date**- the week of sales
 
-Weekly_Sales - sales for the given store
+**Weekly_Sales** - sales for the given store
 
-Holiday_Flag - whether the week is a special holiday week 1 – Holiday week 0 – Non-holiday week
+**Holiday_Flag** - whether the week is a special holiday week 1 – Holiday week 0 – Non-holiday week
 
-Temperature - Temperature on the day of sale
+**Temperature** - Temperature on the day of sale
 
-Fuel_Price - Cost of fuel in the region
+**Fuel_Price** - Cost of fuel in the region
 
-CPI – Prevailing consumer price index
+**CPI** – Prevailing consumer price index
 
-Unemployment - Prevailing unemployment rate
+**Unemployment** - Prevailing unemployment rate
 
 Here our dependent variable or the column which we are trying to predict is Weekly sales and rest are independent variables.
 
